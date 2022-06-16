@@ -1,4 +1,4 @@
-### Hey, I'm Kyle 👋
+### Hi, I'm Kyle 👋
 
 I am a fullstack developer and a recent graduate of Le Wagon Tokyo.
 
