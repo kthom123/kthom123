@@ -11,14 +11,8 @@ Fun fact: I love snowboarding 🏂 and used to do karate 🥋 for several years
 
 If you'd like to talk, reach out to me any time! 💬 
 
-### Connect with me 🤝 
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kylejwthomas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylejwthomas" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="javascript logo"  />
@@ -34,3 +28,9 @@ If you'd like to talk, reach out to me any time! 💬
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" alt="figma logo"  />
 </div>
+
+### Connect with me 🤝 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kylejwthomas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kylejwthomas" height="30" width="40" /></a>
+</p>
