@@ -1,6 +1,6 @@
 ### Hi, I'm Kyle 👋
 
-I am a Software Engineer at Evolany and a graduate of Le Wagon Tokyo.
+I am an aspiring Software Engineer and a graduate of Le Wagon Tokyo.
 
 I enjoy making applications that can help make a difference in the lives of people. I have a particular interest in medicine and sports.
 
