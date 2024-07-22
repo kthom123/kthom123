@@ -1,8 +1,8 @@
 ### Hi, I'm Kyle 👋
 
-I am an aspiring Software Engineer and a graduate of Le Wagon Tokyo.
+I am a Software Engineer.
 
-I enjoy making applications that can help make a difference in the lives of people. I have a particular interest in medicine and sports.
+I enjoy making applications and hope to make some that can help make a difference in the lives of people. I have a particular interest in medicine and sports.
 
 I also enjoy traveling and driving 🚗 and learning new things 📚 
 I hope to continue learning and developing my skills.
